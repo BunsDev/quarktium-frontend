@@ -1,6 +1,10 @@
+import StarsMap from "../components/StarsMap"
+
 const Landing = () => {
     return (
-        <div>HOLA</div>
+        <div>HOLA
+            <StarsMap></StarsMap>
+        </div>
     )
 }
 
